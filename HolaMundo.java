@@ -1,7 +1,7 @@
 /**
  * Hola mundo en Java
  * 
- * @author Luis José Sánchez
+ * @author Andyv
  */
 public class HolaMundo {
   public static void main (String[] args) {
